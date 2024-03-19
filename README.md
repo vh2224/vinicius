@@ -14,7 +14,7 @@ Sou apaixonado por programação e estou sempre aprendendo coisas novas. Meu foc
 
 ## Minhas Horas Trabalhadas
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cd36bba5-f912-47a8-92ba-68fb6057610e)]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vh2224)
 
 ## Conecte-se Comigo
 - Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
