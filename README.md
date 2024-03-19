@@ -10,7 +10,7 @@ Sou apaixonado por programação e estou sempre aprendendo coisas novas. Meu foc
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vh2224&show_icons=true&theme=radical)
 
 ## Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vh2224&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vh2224&layout=compact&langs_count=10)
 
 ## Conecte-se Comigo
 - Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
