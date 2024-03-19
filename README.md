@@ -10,7 +10,11 @@ Sou apaixonado por programação e estou sempre aprendendo coisas novas. Meu foc
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vh2224&show_icons=true&theme=radical)
 
 ## Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vh2224&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vh2224&layout=compact&langs_count=10&hide=python)
+
+## Minhas Horas Trabalhadas
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cd36bba5-f912-47a8-92ba-68fb6057610e)]
 
 ## Conecte-se Comigo
 - Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
